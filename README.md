@@ -1,32 +1,38 @@
 # Food Delivery Data Analysis
 
-## Overview
+## Objective
+Analyze food delivery data by combining transactional, user, and restaurant datasets to generate meaningful business insights.
 
-This project analyzes food delivery data using Python and SQL to generate meaningful business insights.
+## Datasets Used
+- orders.csv
+- users.json
+- restaurants.db
 
-## Technologies Used
-
+## Tools & Technologies
 - Python
 - Pandas
-- NumPy
 - SQLite
-- Jupyter Notebook
+- Matplotlib
 
 ## Analysis Performed
-
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Data Integration
-- Customer Analysis
 - Revenue Analysis
-- Restaurant Analysis
-- Cuisine Popularity Analysis
+- Customer Analysis
+- Restaurant Performance Analysis
+- Membership Analysis
 
-## Project File
+## Key Insights
+- Gold membership impact on revenue
+- City-wise revenue analysis
+- High-rated restaurant performance
+- Customer spending patterns
 
+## Repository Contents
 - Food_Delivery_Data_Analysis.ipynb
 
 ## Future Improvements
-
-- Interactive Dashboard
+- Power BI Dashboard
+- Streamlit Web App
 - Machine Learning Models
-- Power BI Visualization
+
